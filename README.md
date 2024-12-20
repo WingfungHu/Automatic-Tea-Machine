@@ -7,7 +7,7 @@ Components required for project:
 - A seven segment display
 - A potentiometer
 - A push button
-- A speaker
+- A piezo buzzer
 - An LED
 - Two servo motors
 - Arduino microcontroller
